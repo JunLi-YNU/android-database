@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-database</string>
+    <string name="sqlite_room_greendao">SQLite Room GreenDao</string>
+    <string name="create_kotlin_database">Create Kotlin Database</string>
+</resources>
